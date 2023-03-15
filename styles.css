@@ -1,0 +1,36 @@
+#titulo-pagina{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#titulo-telefone {
+    margin-left: 50px;
+}
+
+#telefone {
+    margin-left: 20px;
+}
+
+#nome {
+    margin-left: 20px;
+}
+
+
+#tabela-contatos {
+    margin-top: 50px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
